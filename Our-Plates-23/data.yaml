@@ -1,0 +1,12 @@
+names:
+- License Plate
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: our-plates
+  url: https://universe.roboflow.com/grad-tpere/our-plates/dataset/23
+  version: 23
+  workspace: grad-tpere
+test: ../test/images
+train: Our-Plates-23/train/images
+val: Our-Plates-23/valid/images

@@ -1,1 +1,0 @@
-# Egyptian-Car-Plate-Recognition-for-Car-Parking-project
